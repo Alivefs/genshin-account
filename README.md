@@ -6,7 +6,7 @@
 
 自己编译
 
-## 截图
+## 截图 ss
 ![Screenshot](https://raw.githubusercontent.com/babalae/genshin-account/main/Document/Screenshot.png)
 
 ## 使用方法
